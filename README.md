@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf ŞAKİR</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<h3 align="center">A passionate ai developer from Turkey</h3>
 
 - 📫 How to reach me **sakiryusuf36@gmail.com**
 
