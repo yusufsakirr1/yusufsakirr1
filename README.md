@@ -22,11 +22,3 @@ Computer Science student interested in **AI** and **Machine Learning**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-sakir)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakiryusuf36@gmail.com)
-
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=yusufsakirr1&color=blue&style=flat)
-
-</div>
