@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yusuf Sakir
 
-Computer Science student interested in **AI** and **Machine Learning**.
+Computer Engineering student interested in **AI** and **Machine Learning**.
 
 ## 🛠️ Tech Stack
 
